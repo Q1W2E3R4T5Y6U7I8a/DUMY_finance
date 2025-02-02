@@ -1,0 +1,27 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1738087996182,
+      "tag": "0000_loose_betty_ross",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1738170867272,
+      "tag": "0001_illegal_snowbird",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1738347599782,
+      "tag": "0002_tricky_donald_blake",
+      "breakpoints": true
+    }
+  ]
+}
